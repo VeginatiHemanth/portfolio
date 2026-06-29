@@ -1,11 +1,11 @@
 export default function Head() {
   return (
     <>
-      <title>Hemanth Veginati | AI/ML Engineer</title>
+      <title>Hemanth Veginati | Data Engineer</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta
         name="description"
-        content="Portfolio of Hemanth Veginati, an AI/ML Engineer specializing in scalable data pipelines, ETL, SQL, Python, and cloud-based data solutions."
+        content="Portfolio of Hemanth Veginati, a Data Engineer specializing in scalable data pipelines, ETL, SQL, Python, and cloud-based data solutions."
       />
       <link
         rel="icon"
